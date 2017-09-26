@@ -1,2 +1,2 @@
-# PiTooth
+# pi-tooth
 Secret project.
